@@ -1,1 +1,1 @@
-This is the second .txt file.
+This is the second .txt file. Edited in the Text Branch.
